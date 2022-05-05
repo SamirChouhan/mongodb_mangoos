@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/59911277/getting-data-from-serial-port-of-a-digital-scale-with-javascript-or-php

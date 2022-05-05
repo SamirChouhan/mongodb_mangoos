@@ -1,0 +1,1 @@
+make app.js inside src: type nul > app.js 
